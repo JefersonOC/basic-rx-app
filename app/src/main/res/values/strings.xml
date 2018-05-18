@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicRx</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_user">Usuário</string>
+</resources>
